@@ -1,9 +1,10 @@
 Introducing the dataset on the accidents and collision statisitics from the database, we aim to predict or determine the severity of the accident based on factors such as as weather, roadcondition, type of collision and generic point of collision.
+The business problem is predicting the severity of a collision based on the following below inputs
 We will consider the following parameters
 All cases with matched criteria
 ADDRTYPE- Point where the collison has occured
 SEVERITY CODE- This will be our ML output - to predict the severity of the collision based on the datasets given/ added furthermore.(0- Unknown, 1-Property damage, 2-Injury)
-Collision Type- Does it involve pedestrians, collisions at angles etc.
+Collision Type- Does it involve pedestrians, collisions at angles.
 Number  of people involved in the collision
 Number of pedestrians  involved
 Number of Pedalcyclists involved
