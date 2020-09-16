@@ -1,5 +1,6 @@
 Introducing the dataset on the accidents and collision statisitics from the database, we aim to predict or determine the severity of the accident based on factors such as as weather, roadcondition, type of collision and generic point of collision.
 The business problem is predicting the severity of a collision based on the following below inputs
+Neceessary checkpoints need to be introduced when repeated collisions of similar occurence take place.The traffic can be corrdinated to almost predict the possblity of a collision. For example, if we know that it is raining, and hte chances of the collison are high, the respected roadway can be shut down and the route altered, or the pedestrians can be barred from the roadway where chances of collision involving oedestrians are high.
 We will consider the following parameters
 All cases with matched criteria
 ADDRTYPE- Point where the collison has occured
